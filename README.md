@@ -9,7 +9,7 @@
             "ratings": "4",
             "color": "green",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "2",
@@ -20,7 +20,7 @@
             "ratings": "4",
             "color": "green",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "3",
@@ -31,7 +31,7 @@
             "ratings": "4",
             "color": "green",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "4",
@@ -42,7 +42,7 @@
             "ratings": "4",
             "color": "green",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "5",
@@ -53,7 +53,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "6",
@@ -64,7 +64,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "7",
@@ -75,7 +75,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "8",
@@ -86,7 +86,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "9",
@@ -97,7 +97,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "10",
@@ -108,7 +108,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "11",
@@ -119,7 +119,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "12",
@@ -130,7 +130,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "13",
@@ -141,7 +141,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "14",
@@ -152,7 +152,7 @@
             "ratings": "4",
             "color": "White",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "15",
@@ -163,7 +163,7 @@
             "ratings": "4",
             "color": "Black",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "16",
@@ -185,7 +185,7 @@
             "ratings": "4",
             "color": "Black",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "18",
@@ -196,7 +196,7 @@
             "ratings": "4",
             "color": "Black",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "19",
@@ -207,7 +207,7 @@
             "ratings": "4",
             "color": "Black",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         },
         {
             "id": "20",
@@ -218,7 +218,7 @@
             "ratings": "4",
             "color": "Black",
             "title": "your's favorite Premium Quality Natural product",
-            "sold by": "macmerise Cafie design private limited"
+            "sold": "macmerise Cafie design private limited"
         }
     ]
 }
